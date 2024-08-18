@@ -1,16 +1,17 @@
-## Hi there 👋
+<a href="https://colorlib.com/wp/templates/"><img src="https://colorlib.com/wp/wp-content/uploads/sites/2/colorlib-push-logo.png" alt="Colorlib logo"></a>
+<h1 style="text-align:center;">Thank you for using our template!</h1>
+<p style="text-align:center;">For more awesome templates please visit <strong><a href="https://colorlib.com/wp/templates/">Colorlib</a></strong>.</p>
+<br>
+<p style="text-align:center; color:red;"><strong>Copyright information for the template can't be altered/removed unless you purchase a license.</strong>
 
-<!--
-**suzukilost/suzukilost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="text-align:center;"><strong>Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).</strong>
 
-Here are some ideas to get you started:
+<p style="text-align:center;"><strong>More information about the license is available <a href="https://colorlib.com/wp/licence/">here</a></strong>.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+img {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20%;
+}
+</style>
