@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>SuzukiLost</title>
+    <link href="https://suzukilost.github.io/suzukilost/feed.xml" rel="self" />
+    <link href="https://suzukilost.github.io/suzukilost" />
+    <updated>2025-01-12T19:06:09+02:00</updated>
+    <author>
+        <name>Suzuki</name>
+    </author>
+    <id>https://suzukilost.github.io/suzukilost</id>
+
+    <entry>
+        <title>gn cgmjg</title>
+        <author>
+            <name>Suzuki</name>
+        </author>
+        <link href="https://suzukilost.github.io/suzukilost/gn-cgmjg.html"/>
+        <id>https://suzukilost.github.io/suzukilost/gn-cgmjg.html</id>
+        <media:content url="https://suzukilost.github.io/suzukilost/media/posts/2/f8826ad5a35d7eac6e9663e5c32c65b3.jpg" medium="image" />
+
+        <updated>2025-01-12T19:02:33+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

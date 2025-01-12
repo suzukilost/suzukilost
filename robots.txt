@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://suzukilost.github.io/suzukilost/sitemap.xml
